@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
-root_dir = input("Directory:")
+root_dir = input("resources directory:")
 output_file = "vehicles.txt"
 
 with open(output_file, "w") as f:
