@@ -8,5 +8,7 @@ getVehicles.py creates a list of all installed vehicles with just the input of t
 2. enter the whole path to the resources folder (e.g. D:\Games\GtaRP\Fivem_server\FiveM\resources)
 3. press enter and open either output.txt or vehicles.txt to find your results.
 
-### More Features are following
+## Known Bugs
+- ensure.py lists directorys with brackets [] around them
+- ensure.py lists pre installed librarys by the FiveM server
  
